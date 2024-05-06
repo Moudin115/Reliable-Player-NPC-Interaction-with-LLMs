@@ -5,3 +5,5 @@ Content/MetaHumans/Hana/Face/Hana_FaceMesh.uasset filter=lfs diff=lfs merge=lfs 
 Content/MetaHumans/Laetisia/Face/Laetisia_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MetaHumans/Common/Face/FaceArchetype.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/* filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/* filter=lfs diff=lfs merge=lfs -text
