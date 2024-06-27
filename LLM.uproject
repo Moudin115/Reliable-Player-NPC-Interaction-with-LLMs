@@ -69,5 +69,11 @@
 			"Name": "Volumetrics",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows",
+		"Linux",
+		"LinuxArm64"
 	]
 }
